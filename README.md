@@ -1,7 +1,6 @@
 # Windows
 
 [![GitHub license](http://img.shields.io/github/license/tinnguyentg/windows)](https://github.com/tinnguyentg/windows/blob/master/LICENSE)
-[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/windows)](https://www.powershellgallery.com/packages/windows)
 
 This repository provides a simple PowerShell script to uninstall and install packages from apps.json using Winget.
 
